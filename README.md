@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZatrexReal
+- 👋 Hi, I’m Zatrex.
 - 🌱 I’m currently learning Java.
 - 📫 How to reach me discord: zatrex_123.
 
