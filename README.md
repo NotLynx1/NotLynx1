@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zatrex.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java, Python.
 - 📫 How to reach me discord: zatrex_123.
 
 <!---
